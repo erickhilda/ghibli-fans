@@ -18,9 +18,11 @@
         <router-link to="/">Home</router-link>
       </a>
       <a href="#" class="mt-1 block px-2 py-1 text-white font-semibold rounded sm:mt-0 sm:ml-2">
+        <router-link to="/characters">Characters</router-link>
+      </a>
+      <a href="#" class="mt-1 block px-2 py-1 text-white font-semibold rounded sm:mt-0 sm:ml-2">
         <router-link to="/about">About</router-link>
       </a>
-      <a href="#" class="mt-1 block px-2 py-1 text-white font-semibold rounded sm:mt-0 sm:ml-2">Messages</a>
     </nav>
   </header>
 </template>
