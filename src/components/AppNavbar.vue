@@ -2,7 +2,7 @@
   <header class="bg-gray-800 sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-3">
     <div class="flex items-center justify-between px-4 py-3 sm:p-0">
       <div>
-        <img class="h-10" src="/img/ghibli-logo.png" alt="Workcation">
+        <img class="h-10" src="/img/ghibli-text.png" alt="Workcation">
       </div>
       <div class="sm:hidden">
         <button @click="isOpen = !isOpen" type="button" class="block text-gray-500 hover:text-white focus:text-white focus:outline-none">
