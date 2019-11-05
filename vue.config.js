@@ -1,8 +1,8 @@
 module.exports = {
   pwa: {
-    name: 'My App',
-    themeColor: '#4DBA87',
-    msTileColor: '#000000',
+    name: 'Ghibli Wiki',
+    themeColor: '#3b485e',
+    msTileColor: '#ffffff',
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: 'black'
 
