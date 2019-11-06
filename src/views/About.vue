@@ -16,10 +16,10 @@
           </div>
           <div class="flex flex-wrap">
             <button
-              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border border-blue text-blue hover:bg-blue hover:text-white"
+              class="text-xs font-semibold rounded-full px-4 py-1 mx-3 leading-normal bg-white border focus:outline-none"
             >Call</button>
             <button
-              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:bg-purple hover:text-white"
+              class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border focus:outline-none"
             >Message</button>
           </div>
         </div>
